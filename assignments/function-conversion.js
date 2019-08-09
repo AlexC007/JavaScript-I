@@ -5,12 +5,10 @@
 // };
 // myFunction();
 
-const f = 'Function was Invoked!';
 let myFunction = () => {
-return f;
-};
-console.log(myFunction(f)); 
-
+  return myFunction();
+  };
+  console.log("Function was Invoked");
 
 
 // let anotherFunction = function (param) {
