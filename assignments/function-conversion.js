@@ -8,7 +8,7 @@
 let myFunction = () => {
   return myFunction();
   };
-  console.log("Function was Invoked");
+  console.log("Function test was Invoked");
 
 
 // let anotherFunction = function (param) {
@@ -49,3 +49,4 @@ let anotherFunction = (param) => {
 //   return num * 3;
 // });
 // console.log(triple);
+ 
